@@ -1,0 +1,10 @@
+.git
+.github
+.vscode
+.DS_Store
+Dockerfile
+.dockerignore
+README.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+LICENSE

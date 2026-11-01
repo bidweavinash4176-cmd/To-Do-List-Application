@@ -1,0 +1,28 @@
+# Git
+.git/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build and dependency directories
+node_modules/
+dist/
+build/
